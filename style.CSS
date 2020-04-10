@@ -1,0 +1,52 @@
+#table {
+    margin-left: 12%;
+    margin-right: 10%;
+}
+
+table th#leftalign {
+    text-align: left
+}
+
+.leftalign {
+    font-weight: bold;
+    background-color: lightgrey;
+}
+
+table td#diff {
+    text-align: left;
+    font-weight: 1;
+    background-color: lightgrey;
+}
+
+table td#backred {
+    background-color: red;
+    color: white;
+}
+
+table td#backorange {
+    background-color: #ffe294;
+}
+
+table td#leftalign {
+    text-align: left;
+    font-weight: bold;
+}
+
+#merge {
+    border-collapse: collapse;
+}
+
+table th,
+td {
+    border: 1px solid grey;
+    text-align: right;
+    font-weight: bold;
+    padding: 7px;
+}
+
+h1 {
+    color: blue;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
